@@ -1,0 +1,55 @@
+
+
+
+/* Nav Styles */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px 150px;
+    gap: 1440px;
+
+}
+.nav-title{
+    font-weight: 800px;
+    height: 51px;
+    color: rgba(78, 71, 255, 1);
+    font-size: 50px;
+}
+nav li{
+    list-style: none;
+}
+
+/* Header */
+.header{
+    background-image: url('../Assets/Hero-bg.png'), url('../Assets/Hero-bg.png');
+
+}
+
+/* Button Styles */
+.btn-primary{
+    background-color: #4E47FF;
+    font-weight: 700;
+    color: white;
+    border-radius: 6px;
+    padding: 12px 36px;
+    font-size: 16px;
+    border: none;
+}
+.banner{
+    margin: auto;
+    text-align: center;
+    padding: 37px;
+    font-weight: bold;
+    font-size: 65px;
+}
+.snd-btn{
+     background-color: #4E47FF;
+    font-weight: 700;
+    color: white;
+    border-radius: 6px;
+    padding: 12px 36px;
+    font-size: 16px;
+    border: none;
+    list-style: none;
+}
