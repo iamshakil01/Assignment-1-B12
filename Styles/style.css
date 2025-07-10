@@ -63,12 +63,13 @@ nav li{
     color: #252432;
 }
 .snd-bg{
-    color: #b31212;
+   background-color:rgba(78, 71, 255, 0.1);
 }
 .sheikh{
     border-radius: 10px;
     text-align: center;
-    padding: 116px 159px 0 141px;
+    margin: 116px 159px 0 141px;
+    padding: 50px 50px;
 }
 /* main style */
 main{
