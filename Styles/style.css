@@ -182,13 +182,14 @@ main div{
 }
 .final-description{
     color: #8987A1;
-    padding: 100px 500px 0 400px;
 }
 .final{
+    justify-content: space-around;
     text-align: center;
-    justify-content: center;
+    padding: 0px 800px;
 }
 .finis{
-    display: flex;
+    margin: 0 auto;
     justify-content: space-around;
+   display: flex;
 }
