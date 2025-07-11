@@ -29,12 +29,13 @@ nav li{
 /* Button Styles */
 .btn-primary{
     background-color: #4E47FF;
-    font-weight: 700;
+    font-weight: 600px;
     color: white;
     border-radius: 6px;
     padding: 12px 36px;
     font-size: 16px;
     border: none;
+    width: 132px;
 }
 .banner{
     margin: auto;
