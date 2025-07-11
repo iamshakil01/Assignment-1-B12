@@ -22,7 +22,8 @@ nav li{
 
 /* Header */
 .header{
-    background-image: url('../Assets/Hero-bg.png'), url('../Assets/Hero-bg.png');
+    background-image: url('../Assets/Hero-bg.png'), url('../Assets/wc-big.png');
+    overflow: auto;
 
 }
 
@@ -193,4 +194,23 @@ main div{
     margin: 0 auto;
     justify-content: space-around;
    display: flex;
+}
+form{
+    width:100%;
+    padding:10px;
+    margin-bottom:10px;
+    display: flex 1px;
+    min-width: 280px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+input,textarea{
+    margin-bottom: auto;
+    padding: 10px;
+    font-size: 16px;
+}
+input{
+    height: 20px;
 }
