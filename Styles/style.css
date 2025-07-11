@@ -135,3 +135,40 @@ main div{
     justify-content: center;
     margin: auto;
 }
+/* Footer style */
+.footer-column{
+    display: flex;
+}
+.footer-columns{
+    padding-right: 0;
+    padding-bottom: 71px;
+    padding-top: 160px;
+    box-sizing: border-box;
+}
+.fotter{
+    display: flex;
+    justify-content: space-between;
+    background-color: blanchedalmond;
+    width: auto;
+    height: 632px;
+    margin: 50px 150px 150px;
+}
+.fbtn{
+    background-color: #4E47FF;
+    width: 497px;
+    height: 62px;
+    color: white;
+    border-radius: 6px;
+    padding:20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+    align-items: center;
+}
+.foter-title{
+    padding: 140px 612px 200px 0px;
+    font-weight: bold;
+    font-size: 97px;
+    color: rgba(0, 0, 0, 1);
+    font-family: 'Times New Roman', Times, serif;
+}
