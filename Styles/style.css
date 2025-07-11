@@ -44,7 +44,7 @@ nav li{
     font-size: 65px;
 }
 .snd-btn{
-     background-color: #4E47FF;
+    background-color: #4E47FF;
     font-weight: 700;
     color: white;
     border-radius: 6px;
@@ -73,6 +73,62 @@ nav li{
 }
 /* main style */
 main{
-    max-width: 1140px;
+    max-width: 1140px 360px;
     margin: 0 auto;
+    padding: 80px 50px;
+}
+.sheikhs{
+    display: flex;
+    justify-content: space-around;
+}
+.item-title{
+    color: rgba(78, 71, 255, 1);
+    font-weight: bold;
+    font-size: 80px;
+}
+.item-description{
+    font-weight: 500px;
+    font-size: 20px;
+}
+.sheikh{
+    padding: 50px 140px;
+}
+main div{
+  padding: 0px;
+}
+.focus{
+    justify-content: center;
+    background-color: #ebe8e8;
+    width: 1140px 696px;
+    margin: 100px 150px;
+    padding: 71px auto;
+    text-align: center;
+}
+.focus-title{
+        text-align: center;
+        padding: 20px;
+        font-weight: bold;
+        font-size: 50px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.focus-description{
+        text-align: center;
+        padding: 20px;
+}
+.btn-tnd{
+    background-color: #4E47FF;
+    font-weight: 700;
+    color: white;
+    border-radius: 6px;
+    padding: 12px 36px;
+    font-size: 16px;
+    border: none;
+    align-items: center;
+}
+.pic{
+    padding: 20px 0 71px;
+    width: 840px 364px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
 }
