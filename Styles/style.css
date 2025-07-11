@@ -138,6 +138,7 @@ main div{
 /* Footer style */
 .footer-column{
     display: flex;
+    text-align: center;
 }
 .footer-columns{
     padding-right: 0;
@@ -170,5 +171,24 @@ main div{
     font-weight: bold;
     font-size: 97px;
     color: rgba(0, 0, 0, 1);
-    font-family: 'Times New Roman', Times, serif;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+/* Final Part Styles */
+.final-title{
+    color: rgba(78, 71, 255, 1);
+    font-size: 100px;
+    width: 291px;
+    height: 121px;
+}
+.final-description{
+    color: #8987A1;
+    padding: 100px 500px 0 400px;
+}
+.final{
+    text-align: center;
+    justify-content: center;
+}
+.finis{
+    display: flex;
+    justify-content: space-around;
 }
